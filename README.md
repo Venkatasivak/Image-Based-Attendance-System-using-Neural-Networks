@@ -13,12 +13,14 @@ The project intends to create an AI Image recognition system to track the attend
 * Implementing Siamese Neural Network
 * Performing Multi label multi class classification using Convolutional Neural Network
 * Transfer learning using FaceNet+ Multi label multi class classification
+
 # Use-cases:
 * AI models can be utilized for capturing attendance of students by professors.
 * Capturing attendance of participants for an event.
+
 Example of a simple process flow which may take place in the project :
 
-Image Acquisition
-Face detection
-Attendance registration
-Attendance monitoring
+* Image Acquisition
+* Face detection
+* Attendance registration
+* Attendance monitoring
